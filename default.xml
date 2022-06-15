@@ -35,6 +35,10 @@
     <remote  name="kavencat"
            fetch="https://github.com/kavencat"
            revision="refs/heads/arrow-12.1" />
+  
+    <remote  name="cherish"
+           fetch="https://github.com/CherishOS/"
+           revision="twelve-one" />
 
   <superproject name="platform/superproject" remote="aosp" revision="android-12.1.0_r8" />
   <contactinfo bugurl="go/repo-bug" />
