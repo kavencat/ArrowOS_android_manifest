@@ -31,6 +31,10 @@
            fetch="https://gitlab.com/arrowos-project"
            review="https://review.arrowos.net/"
            revision="refs/heads/arrow-12.1" />
+  
+    <remote  name="kavencat"
+           fetch="https://github.com/kavencat"
+           revision="refs/heads/arrow-12.1" />
 
   <superproject name="platform/superproject" remote="aosp" revision="android-12.1.0_r8" />
   <contactinfo bugurl="go/repo-bug" />
